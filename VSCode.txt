@@ -1,0 +1,56 @@
+Ini bersumber dari Youteube UNPAS (VISUAL STUDIO CODE untuk PROGRAMMER PHP)
+
+https: //code.visualstudio.com		//tempat download
+
+KOMPIGURASI
+CTRL+SHIFT+P	command palette		//untuk menjalankan printah-printah yang ada di VSCode
+	//semua perintahh bisa kita konfigurasi di dalam form yang muncul
+
+CTRL+,	'ketik' -> 
+	open editor visible 'ganti angka 9 to 0 untuk menghilangkan tampilan awal'
+	minimap 'hapus checkList untuk menghilangkan minimap'
+	font size	24
+	line height	40
+	'sudah tersimpan di settings.json silahkan di copi jika berpindah ke komputer lain'
+
+MEMILIH TEMA
+	one drak pro
+	material theme
+
+
+MENGUBAH FONT
+	source code pro -> download di google jika sudah, 
+	CTRL+, Font Family = Source Code Pro
+	
+	fira code -> 'pilihan download di github download zip-nya' -> distr -> ttf 'block semua kemudian install'
+	CTRL+, 'Tambahkan di Font Family, centang Font Ligatures, Restart VSCode'.
+
+MENGHAFAL SHORCUT
+	visual studio code cheat shee	'ketik di google'
+
+MENGAKSES TERMINAL
+	view -> terminal	'default yang berjalan powershell
+	
+	'cara mengganti terminal-nya'
+	CTRL + SHIPT + P 'cari' -> select default shell -> Git Bash C:\Program Files\Git\Bin\bash.exe
+	'untuk menjalankan-nya, tekan tambah di sebelah kanan untuk buka terminal baru'
+	CTRL + '	//membuka git bash
+
+QUICK OPEN FILE	'jika bekerja dengan file yang bayak'
+	CTRL + P 'lalu tuliskan nama file yang ingin di tuju'
+
+EXTENSIONS	'yang sering digunakan Pak Sandhika saat mengerjakan projeck menggunakan PHP'
+	1. PHP INTELEPHENSE	'mempermudah mencari documentasi PHP'
+	'masuk ke setting ketik' -> PHP -> 'hilangkan centang pada' PHP>Suggest: Basic 
+
+	PHP IntelliSense	'sama dan lebih lengkap karna langsung mengambil dari laebrerinya PHP tapi
+				perlu mengarahkan peth nya supaya bisa di gunakan'
+
+	2. PHP INTELLISENSE FOR CODEIGNITER	//jika bekerja dengan codeigniter
+	
+	3. LARAVEL 5 SNIPPETS & LARAVEL BLADE SNIPPET //untuk enjent
+	
+	'jika bekerja menggunakan CODEIGNITER matikan LARAVEL'
+	'jika menggunakan CODEIGNITER biasan CSS menggunakan BOOTSTRAP
+
+	4. Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippet
